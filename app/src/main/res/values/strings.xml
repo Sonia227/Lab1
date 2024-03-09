@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab1-teste</string>
+    <string name="button2">Go to Activity 2</string>
+    <string name="button3">Close Activity</string>
+</resources>

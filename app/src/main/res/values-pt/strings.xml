@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab1-teste</string>
+    <string name="button2">Ir para Atividade 2</string>
+    <string name="button3">Fechar Atividade</string>
+</resources>
