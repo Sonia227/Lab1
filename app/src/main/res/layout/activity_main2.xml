@@ -19,6 +19,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:backgroundTint="#E1CEFF"
+            android:textColor="#5a5266"
             android:text="Close Activity"
             android:layout_alignParentTop="true" />
 
