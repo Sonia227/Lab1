@@ -20,7 +20,9 @@
             android:id="@+id/button2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:backgroundTint="#E1CEFF"
             android:text="Go to Activity2" />
+
 
         <TextView
             android:id="@+id/textView"
