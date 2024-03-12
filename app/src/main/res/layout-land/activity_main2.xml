@@ -21,6 +21,7 @@
             android:text="Close Activity"
             android:backgroundTint="#E1CEFF"
             tools:layout_editor_absoluteX="317dp"
+            android:textColor="#5a5266"
             tools:layout_editor_absoluteY="0dp" />
 
         <TextView
@@ -29,6 +30,7 @@
             android:layout_height="wrap_content"
             android:text="Activity_2_Horizontal"
             android:layout_below="@id/button3"
+
             android:layout_marginTop="16dp" />
 
         <TextView
